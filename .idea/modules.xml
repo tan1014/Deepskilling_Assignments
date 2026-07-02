@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Deepskilling_Assignments.iml" filepath="$PROJECT_DIR$/.idea/Deepskilling_Assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-1/Design-Pattern-and-Principles/Exercise-1-SingletonPattern/Exercise-1-SingletonPattern.iml" filepath="$PROJECT_DIR$/Week-1/Design-Pattern-and-Principles/Exercise-1-SingletonPattern/Exercise-1-SingletonPattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week-1/Test-Driven-Development/Exercise3-Assertions/Exercise3-Assertions.iml" filepath="$PROJECT_DIR$/Week-1/Test-Driven-Development/Exercise3-Assertions/Exercise3-Assertions.iml" />
       <module fileurl="file://$PROJECT_DIR$/Week-1/Design-Pattern-and-Principles/Exercise-2-FactoryMethodPattern/src/src.iml" filepath="$PROJECT_DIR$/Week-1/Design-Pattern-and-Principles/Exercise-2-FactoryMethodPattern/src/src.iml" />
     </modules>
   </component>
