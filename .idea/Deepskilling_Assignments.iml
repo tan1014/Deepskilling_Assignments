@@ -7,6 +7,9 @@
       <sourceFolder url="file://$MODULE_DIR$/Week-1/Data-Structures-and-Algorithms/Exercise-7-FinancialForecasting/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week-1/Design-Pattern-and-Principles/Exercise-2-FactoryMethodPattern/src/com" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week-1/Test-Driven-Development/Exercise1-SettingUpJUnit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-1/Logging-Framework/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-1/Mocking-and-Stubbing/src/main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-1/Mocking-and-Stubbing/src/test" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

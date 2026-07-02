@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74945c2d-975e-4717-ad22-15545faf10ef" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Mocking-and-Stubbing/src/main/java/ExternalApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mocking-and-Stubbing/src/main/java/org/example/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mocking-and-Stubbing/src/test/java/com.example/MyServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Deepskilling_Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Deepskilling_Assignments.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Design-Pattern-and-Principles/Exercise-2-FactoryMethodPattern/src/com/cognizant/factory/documents/WordDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Design-Pattern-and-Principles/Exercise-2-FactoryMethodPattern/src/com/cognizant/factory/documents/WordDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/factory/documents/Document.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/factory/documents/ExcelDocument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/factory/documents/PdfDocument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/factory/documents/WordDocument.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/factory/factories/DocumentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/factory/factories/ExcelDocumentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/factory/factories/PdfDocumentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/factory/factories/WordDocumentFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/factory/test/FactoryTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/forecasting/FinancialForecast.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/forecasting/ForecastTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/search/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/search/SearchAlgorithms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Deepskilling_Assignments/com/cognizant/search/SearchTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3FwMvAcxvDFOI6pDDUNJM6uBjX8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kumar/OneDrive/Desktop/Deepskilling_Assignments/Week-1",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74945c2d-975e-4717-ad22-15545faf10ef" name="Changes" comment="" />
+      <created>1782981907252</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782981907252</updated>
+      <workItem from="1782981908416" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
