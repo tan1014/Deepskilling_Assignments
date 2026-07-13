@@ -10,12 +10,14 @@
         <module name="spring-learn" />
         <module name="Exercise1-SettingUpJUnit" />
         <module name="Exercise3-Assertions" />
+        <module name="account" />
         <module name="LibraryManagement (1)" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="account" options="-parameters" />
       <module name="spring-learn" options="-parameters" />
     </option>
   </component>

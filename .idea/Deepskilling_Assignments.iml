@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Week-1/Mocking-and-Stubbing/src/test" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week-2/Spring-Core-and-Maven/LibraryManagement/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Week-2/Spring-Boot/account/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week-2/Microservices/account/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
