@@ -3,6 +3,8 @@ package com.example;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;
 
+import java.org.example.MyService;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.when;
 
@@ -11,7 +13,7 @@ public class MyServiceTest {
     @Test
     public void testExternalApi() {
 
-        ExternalApi mockApi = Mockito.mock(ExternalApi.class);
+        com.example.ExternalApi mockApi = Mockito.mock(com.example.ExternalApi.class);
 
         when(mockApi.getData()).thenReturn("Mock Data");
 

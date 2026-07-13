@@ -13,17 +13,17 @@ public class SpringLearnApplication {
 
 		SpringApplication.run(SpringLearnApplication.class, args);
 
-		displayCountry();
+		//displayCountry();
 	}
 
-	public static void displayCountry() {
-
-		ApplicationContext context =
-				new ClassPathXmlApplicationContext("country.xml");
-
-		Country country = context.getBean("country", Country.class);
-
-		System.out.println(country);
-
-	}
+//	public static void displayCountry() {
+//
+//		ApplicationContext context =
+//				new ClassPathXmlApplicationContext("country.xml");
+//
+//		Country country = context.getBean("country", Country.class);
+//
+//		System.out.println(country);
+//
+//	}
 }
